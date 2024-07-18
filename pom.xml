@@ -70,6 +70,8 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- SQL Server JDBC Driver -->
+
 	</dependencies>
 
 	<build>
